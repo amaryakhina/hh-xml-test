@@ -1,0 +1,109 @@
+---
+fsa:ResponseFsaType:
+  fsa:RdcTr:
+    tns:Type: "TrRf"
+    tns:Requisites:
+      tns:Status: "Active"
+      tns:Section: "Tr"
+      tns:Number: "Д-RU.СС10.В.00001"
+      tns:DateReg: "2015-12-20T00:00:00"
+      tns:DateExpiry: "2018-12-18T00:00:00"
+      tns:NoExpiry: null
+      tns:BaseDeclaration:
+        tns:Documents: "Заявление № 1/15 от 20.12.2015 Декларация о соответствии К\
+          опия свидетельства о регистрации ОГРН"
+        tns:Schema: "1д"
+        tns:Base:
+          tns:string: "1. Протокол испытаний № 1 от 14.12.2015, выдан Испытательно\
+            й лабораторией «Табак лаборатория-Тест» Закрытого акционерного обществ\
+            а «Табак», № POCC RU.0001.22АА11"
+        tns:Laboratory:
+          tns:NumberReg: "POCC RU.0001.22АА11"
+          tns:Name: "Испытательная лаборатория «Табак лаборатория-Тест»"
+          tns:DateReg: "2014-10-04T00:00:00"
+          tns:DateExpiry: "2018-10-04T00:00:00"
+          tns:Document: null
+          tns:Info: null
+      tns:Discontinued: null
+    tns:Applicant:
+      tns:ApplicantType: "UL"
+      tns:DeclarantType: "Manufacturer"
+    tns:ApplicantUl:
+      tns:OrganForm: "Закрытое акционерное общество"
+      tns:FullName: "Закрытое акционерное общество «Табак»"
+      tns:ShortName: null
+      tns:Head: "Табаков Валентин Семенович"
+      tns:HeadPost: "Руководителя"
+      tns:HeadText: "Табакова Валентина Семеновича"
+      tns:Address:
+        tns:string: "190000, РОССИЯ, Ленинградская область, Ломоносовский район, п\
+          роизводственная зона \"Горелово\", квартал 1, Волхонское шоссе, 1"
+      tns:AddressActual: "190000, РОССИЯ, Ленинградская область, Ломоносовский рай\
+        он, производственная зона \"Горелово\", квартал 1, Волхонское шоссе, 1"
+      tns:Phone: "7(812)7000000"
+      tns:Fax: "7(812)7000001"
+      tns:Email: "TabakRU@mail.ru"
+      tns:Organ: null
+      tns:Date: null
+      tns:Ogrn: "1111111111111"
+      tns:Inn: "1110001111"
+      tns:RegInfo: null
+      tns:Contract: null
+    tns:ApplicantFl: null
+    tns:ApplicantAl: null
+    tns:ApplicantAu: null
+    tns:Manufacturer:
+      tns:Type: "Um"
+      tns:ManufacturerUl:
+        tns:OrganForm: "Закрытое акционерное общество"
+        tns:FullName: "Закрытое акционерное общество «Табак»"
+        tns:Address:
+          tns:string: "190000, РОССИЯ, Ленинградская область, Ломоносовский район\
+            , производственная зона \"Горелово\", квартал 1, Волхонское шоссе, 1"
+        tns:AddressActual: "190000, РОССИЯ, Ленинградская область, Ломоносовский р\
+          айон, производственная зона \"Горелово\", квартал 1, Волхонское шоссе, 1"
+        tns:Phone: "7(812)7000000"
+        tns:Fax: "7(812)7000001"
+        tns:Email: "TabakRU@mail.ru"
+        tns:Organ: null
+        tns:Date: null
+        tns:Ogrn: "1111111111111"
+        tns:Inn: "1110001111"
+      tns:ManufacturerAl: null
+      tns:ManufacturerFl: null
+    tns:Product:
+      tns:DeclareType: "Series"
+      tns:DcOriginType: "Domestic"
+      tns:Name: "Сигареты с фильтром \"PR\""
+      tns:ProductInfo: "смола: 6 мг/сиг; никотин: 0,5 мг/сиг; СО: 7 мг/сиг"
+      tns:Okp: "919340"
+      tns:OkpdText: null
+      tns:Standart: null
+      tns:SizeNumber: "100000 пачек"
+      tns:DetailsShippingDocumentation: null
+      tns:ContractInfo: null
+      tns:Info: "Приказ Министерства здравоохранения и социального развития Россий\
+        ской Федерации от 05 Мая 2012 г. N 490н \"Об утверждении предупредительных\
+        \ надписей о вреде курения, сопровождаемых рисунками\""
+      tns:PlaceMark: null
+      tns:TechRegs: null
+    tns:DeclareAddInfo: null
+    tns:CertificationOrgan:
+      tns:FullName: "Орган по сертификации продукции и услуг Общества с ограниченн\
+        ой ответственностью \"Тест\""
+      tns:Number: "РОСС RU.0001.10СП00"
+      tns:DateReg: "2014-10-10T00:00:00"
+      tns:Organ: "Росаккредитация"
+      tns:Head: "Петров Иван Сидорович"
+      tns:AddressLegal: "190000, Россия, город Санкт-Петербург, ул. 10-ая Красноар\
+        мейская, дом 100, Литер А"
+      tns:Address: "190000, Россия, город Санкт-Петербург, ул. 10-ая Красноармейск\
+        ая, дом 100, Литер А"
+      tns:Phone: "7(812)3000000"
+      tns:Fax: "7(812)3000001"
+      tns:Email: "StPt-Test@yandex.ru"
+      tns:Ogrn: null
+      tns:Experts:
+        tns:Surname: "Медведев"
+        tns:Name: "Михаил"
+        tns:Patronymic: "Александрович"
