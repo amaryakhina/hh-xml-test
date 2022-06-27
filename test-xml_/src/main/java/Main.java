@@ -24,7 +24,6 @@ public class Main {
         ObjectMapper yamlMapper = new ObjectMapper(new YAMLFactory());
         yamlMapper.enable(SerializationFeature.WRAP_ROOT_VALUE);
         yamlMapper.writeValue(yamlFile, rootElement);
-        int i = 1;
     }
 
 }
